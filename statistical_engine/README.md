@@ -59,5 +59,5 @@ Example:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/statistical_engine.git
+git clone https://github.com/eyuashu06/DataScience_Task/edit/main/statistical_engine
 cd statistical_engine
